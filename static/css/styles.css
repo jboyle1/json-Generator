@@ -1,6 +1,7 @@
 h1 {
     font-family: courier;
     font-size: 40px;
+    text-align: center;
 }
 
 #buttonContainer {
@@ -25,4 +26,7 @@ pre {
     overflow: auto;
     overflow-wrap: break-word;
     padding: 10px;
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
